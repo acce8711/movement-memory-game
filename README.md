@@ -4,4 +4,4 @@ I worked on this project for my sensor interactions class, using OpenFrameworks 
 
 
 ## Demo
-[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
+[![Watch the demo]("s")](https://youtu.be/kDufIwOcaGI)

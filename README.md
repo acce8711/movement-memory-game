@@ -4,4 +4,4 @@ I worked on this project for my sensor interactions class, using OpenFrameworks 
 
 
 ## Demo
-[![Watch the demo]("s")](https://youtu.be/kDufIwOcaGI)
+[![Watch the demo](["s"](https://github.com/acce8711/movement-memory-game/blob/main/bin/data/movementGame_hero.png))](https://youtu.be/kDufIwOcaGI)

@@ -3,5 +3,5 @@
 I worked on this project for my sensor interactions class, using OpenFrameworks to create a movement memory game. I created a movement memory game where users pick two colors for their webcam to detect. Then, they're shown a movement pattern to memorize and need to mimic it using the tracked colored objects. The game contains several levels and detects collisions between objects to move onto the next level.
 
 
-## Demo
-[![Watch the video](https://github.com/acce8711/movement-memory-game/blob/main/bin/data/movementGame_hero.png?raw=true)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
+## Demo Video
+[![Watch the video](https://github.com/acce8711/movement-memory-game/blob/main/bin/data/movementGame_hero.png?raw=true)](https://youtu.be/kDufIwOcaGI)
